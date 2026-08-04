@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hii, I'm Bhoomika D <br>I'm an MCA student at AMC Engineering College, Bengaluru.<br>I'm currently learning Ethical Hacking.
+Hi, I'm Bhoomika D <br>I'm an MCA student at AMC Engineering College, Bengaluru.<br>I'm currently learning Ethical Hacking.
 
 
 ## 🌐 Socials:
